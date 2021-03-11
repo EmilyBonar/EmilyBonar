@@ -1,6 +1,6 @@
 ### Hi there, I'm Emily 👋
 
-I graduated as a Materials Engineer from Rice University in 2018. I'm currently in a batch at the [Recurse Center](https://www.recurse.com/) and making lots of web projects, usually with a mix of TypeScript, React, and TailwindCSS
+I graduated as a Materials Engineer from Rice University in 2018. I've been working as a Software Developer since then, using LabVIEW and Python. I'm currently in a batch at the [Recurse Center](https://www.recurse.com/) and making lots of web projects, usually with a mix of TypeScript, React, and TailwindCSS
 
 - 🌱 Currently learning: TypeScript
 - 🎨 [Check out the projects I've made!](https://www.emilybonar.com/projects)
